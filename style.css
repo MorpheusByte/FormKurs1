@@ -4,13 +4,16 @@ body{
     margin: auto;
 }
 label{
-    margin: 0;
+    margin: auto;
     text-align: center;
-    width: 80%;
+    width: 50%;
     margin-top: 20px;
 }
 textarea{
     width: 100%;
     margin: auto;
 
+}
+fieldset{
+    margin: auto;
 }
